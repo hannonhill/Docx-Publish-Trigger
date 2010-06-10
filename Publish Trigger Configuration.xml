@@ -1,0 +1,5 @@
+<publish-triggers>   
+   <publish-trigger>   
+     <class-name>com.cms.publish.client.DocxPublishTrigger</class-name>   
+  </publish-trigger>   
+ </publish-triggers>  
